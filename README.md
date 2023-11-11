@@ -24,7 +24,7 @@
 <a href="https://kaggle.com/srivastavbudugutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srivastavbudugutta" height="30" width="40" /></a>
 <a href="https://fb.com/srivastav budugutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srivastav budugutta" height="30" width="40" /></a>
 <a href="https://instagram.com/srivastavbudugutta_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srivastavbudugutta_9" height="30" width="40" /></a>
-<a href="https://medium.com/@srivastavbudugutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srivastavbudugutta" height="30" width="40" /></a>
+<a href="https://medium.com/@srivastavbudugutta95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srivastavbudugutta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
